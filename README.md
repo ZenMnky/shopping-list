@@ -1,3 +1,5 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+Simple shopping list application built with jQuery.
+
+Demonstrates dynamically adding / removing elements and DOM traversal.
